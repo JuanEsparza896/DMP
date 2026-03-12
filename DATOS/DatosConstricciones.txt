@@ -1,0 +1,5 @@
+RATTLE
+tol     1e-9
+maxit   10000.0
+VIBRANTE    
+kres    10000.0

@@ -1,0 +1,2 @@
+masa  radio parametros_extra
+0.3506	0.9721 0.3005

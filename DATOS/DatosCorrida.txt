@@ -1,0 +1,14 @@
+nc          10000
+ncp         2.5
+dt          0.001
+temp        2.0
+dens        0.32
+potencial   0
+ensamble    0
+termo       4
+p_termo     0.01
+vibrante    1
+rc          3.5
+ovec        1
+ocel        1
+coord       0
